@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanzilBoi
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Core JAVA,SQL, HTML,CSS and JS.
-- 📫 to Contact, put a mail here- tanzilameen10@gmail.com
+- 📫 to Contact, put a mail here- connect.tanzil@gmail.com
 
 <!---
 tanzilBoi/tanzilBoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
