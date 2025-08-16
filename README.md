@@ -4,7 +4,7 @@ A passionate Cloud Engineer || Remote Systems Support || Play with Data transfor
 💡 I'm looking to transform my career from Support Engineer --> Data Engineer<br> 
 📧 To reach out, kindly email : connect.tanzil@gmail.com
 
-
+And Never Mind - Profile is under Development! 🙂
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanzil-ul-ameen-23370521a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:connect.tanzil@gmail.com) 
@@ -19,7 +19,7 @@ A passionate Cloud Engineer || Remote Systems Support || Play with Data transfor
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanzilBoi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Motivational quotes
+### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
